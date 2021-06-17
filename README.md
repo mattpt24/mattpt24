@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mattpt24
+- 👋 Hi, I’m Matt Persell-Thompson
 - 👀 I’m interested in ... All Things Web Dev!
 - 🌱 I’m currently learning ... Front End Technologies
 - 📫 How to reach me ... mattypt@hotmail.co.uk
